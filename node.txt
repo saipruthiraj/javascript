@@ -1,0 +1,11 @@
+VARIABLE(Its may be changes in future) and CONSTANT(Never be changed)
+    const-It is used for constant declaration.The value of constant never be changed through out programme.
+
+    let-
+    prefer not to use var ,because of issue in block ,scope and function.
+
+"use strict";-Treat all js code newer version
+alert()-give a pop up on browser.We r using node.js not browser
+
+DATATYPES:-
+
