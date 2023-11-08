@@ -9,3 +9,4 @@ let money
 console.log(accountID)
 accountEmail="saiii@gmail.com"
 console.table([accountID,accountEmail,accountCity,parrword,money])
+console.log ("SAI")
