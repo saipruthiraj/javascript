@@ -3,4 +3,4 @@ const myDetails={
     roll:12
 }
 console.log(myDetails.name);
-tgtyhth
+
