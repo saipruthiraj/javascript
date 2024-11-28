@@ -19,6 +19,10 @@ let state;
 
 // object
 
-console.log(typeof undefined); // undefined
-console.log(typeof null); // object
-console.log(typeof isLoggedIn) // Boolean
+//console.log(typeof undefined); // undefined
+//console.log(typeof null); // object
+//console.log(typeof isLoggedIn) // Boolean
+
+//console.log(typeof NAN)
+
+
